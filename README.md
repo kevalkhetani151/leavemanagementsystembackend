@@ -1,0 +1,1 @@
+This is the backend for a Leave Management System built using Node.js, Express.js, and TypeScript, following the MVP architecture. The server runs on port 3000 and can be started with the command npm run dev
