@@ -1,0 +1,11 @@
+enum UserRole {
+    admin
+    employee
+  }
+  
+  enum LeaveStatus {
+    Pending
+    Approved
+    Rejected
+  }
+  
